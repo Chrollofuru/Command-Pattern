@@ -1,4 +1,4 @@
-# Orogo_commandPattern
+# commandPatter_JUANCO
 SoftEng Lab Assignment 2
 
 Smart Home Automation
