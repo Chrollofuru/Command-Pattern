@@ -1,4 +1,4 @@
-# commandPatter_JUANCO
+# commandPattern_JUANCO
 SoftEng Lab Assignment 2
 
 Smart Home Automation
